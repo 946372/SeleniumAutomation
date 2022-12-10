@@ -1,0 +1,22 @@
+09:42:01.403 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:42:02.074 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:42:02.077 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+09:42:12.874 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+09:44:55.854 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:44:56.297 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:44:56.314 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+09:45:06.915 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+09:46:58.446 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:46:58.898 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:46:58.900 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+09:47:08.922 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+09:57:07.975 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:57:08.602 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:57:08.604 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+09:57:10.253 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:44:57.274 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+10:44:58.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+10:44:58.173 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+10:45:10.139 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+10:53:36.361 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:57:29.115 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
